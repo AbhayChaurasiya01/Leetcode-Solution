@@ -1,0 +1,1 @@
+bool checkString(char* s) { return strstr(s, "ba") == NULL; }
